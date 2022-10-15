@@ -7,7 +7,7 @@ import PyQt5.QtWidgets
 import PyQt5.QtGui
 import PyQt5.QtCore
 import PyQt5.QtWebEngineWidgets
-print("⼕ㄖ⼕ㄖ山ㄖ闩")
+print("Ctrl+C browser")
 print("input a http address")
 from PyQt5.QtWidgets import *
 from PyQt5.QtCore import *
