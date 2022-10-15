@@ -1,8 +1,8 @@
 # sakotah
 Ctrl+C Browser lets be honest 
 # MANUAL
-okay so what you is you
-# 1.Get somesunlight in your room
+okay so this is what you do
+# 1.Get some sunlight in your room
 # 2.Get a VPN (This is not secure)
 # 3.Get VSCode
 # 4.Get a python exstenion
